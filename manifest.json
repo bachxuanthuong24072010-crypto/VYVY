@@ -1,0 +1,31 @@
+{
+  "name": "BioPlanner 2027 - Sổ Tay Chuyên Sinh",
+  "short_name": "BioPlanner 2027",
+  "description": "Thời gian biểu & Sổ tay Chuyên Sinh học 2027 - Chinh phục Giải Nhất",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#b39cf4",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
